@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/cyanotype-dev/cyanotype/releases/download/v0.1.0/cyanotype_0.1.0_windows_amd64.zip",
+            "bin": [
+                "cyanotype.exe"
+            ],
+            "hash": "d0c71b0e73d51b748cc99c2eedc97f3f04bf36410b65c4b2e1074a64ca5da88a"
+        },
+        "arm64": {
+            "url": "https://github.com/cyanotype-dev/cyanotype/releases/download/v0.1.0/cyanotype_0.1.0_windows_arm64.zip",
+            "bin": [
+                "cyanotype.exe"
+            ],
+            "hash": "949f150142c10946d0f0294e1647105e1afbaf3c7b6a11a7ea6c516819827b56"
+        }
+    },
+    "homepage": "https://github.com/cyanotype-dev/cyanotype",
+    "license": "Apache-2.0",
+    "description": "Generate instruction files for coding agents"
+}
