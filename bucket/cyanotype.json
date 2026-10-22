@@ -1,19 +1,19 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cyanotype-dev/cyanotype/releases/download/v0.2.0/cyanotype_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/cyanotype-dev/cyanotype/releases/download/v0.3.0/cyanotype_0.3.0_windows_amd64.zip",
             "bin": [
                 "cyanotype.exe"
             ],
-            "hash": "57a6fee2f1c69e139314918ddc2ea99faa51949fc81b7522e4ae5efd9a45b0db"
+            "hash": "e60ee82e3dd99a80f1ab745a93ec28e59c6bbd4e9d39580867407183d72fc502"
         },
         "arm64": {
-            "url": "https://github.com/cyanotype-dev/cyanotype/releases/download/v0.2.0/cyanotype_0.2.0_windows_arm64.zip",
+            "url": "https://github.com/cyanotype-dev/cyanotype/releases/download/v0.3.0/cyanotype_0.3.0_windows_arm64.zip",
             "bin": [
                 "cyanotype.exe"
             ],
-            "hash": "9c61d6c228c86a7f7e6cda4f25b3afe37628b531bcec3d7bbafa180c4cb84b3c"
+            "hash": "21af6a4ad0112d603604a1012c9d02949dd79950a4d0a72d5cc8634bfdbfb8ff"
         }
     },
     "homepage": "https://github.com/cyanotype-dev/cyanotype",
